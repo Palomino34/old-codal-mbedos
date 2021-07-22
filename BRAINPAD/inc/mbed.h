@@ -36,7 +36,6 @@
 #define MBED_VERSION MBED_ENCODE_VERSION(MBED_MAJOR_VERSION, MBED_MINOR_VERSION, MBED_PATCH_VERSION)
 
 #if MBED_CONF_RTOS_PRESENT
-#Error No RTOSssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 #include "rtos/rtos.h"
 #endif
 
