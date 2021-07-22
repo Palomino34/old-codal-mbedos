@@ -39,6 +39,7 @@
 #Error No RTOSssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss
 #include "rtos/rtos.h"
 #endif
+#Error No RTOS222222222222222222222222222222222222222222222222
 
 #if MBED_CONF_NSAPI_PRESENT
 #include "netsocket/nsapi.h"
